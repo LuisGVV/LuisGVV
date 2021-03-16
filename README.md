@@ -5,5 +5,5 @@
 - 📫 How to reach me:
   - https://twitter.com/luisgvv_
   - https://www.linkedin.com/in/luisgvv/
-  - Or by opening a pull request against this repo :)
+  - Or by opening a pull request against [this repo](https://github.com/LuisGVV/LuisGVV) :)
 
